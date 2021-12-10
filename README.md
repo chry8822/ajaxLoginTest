@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 *  ajax 로 데이터를 불러와서 로그인창 만들기
+*  로그인 아이디: chrys 비밀번호: 1234
 *  [실행 링크](https://chry8822.github.io/ajaxLoginTest/ajax%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C.html)
 
 <br>
